@@ -18,6 +18,7 @@ What it does
 
 How to run
 
+
 [python quiz_game.py](./01_quiz_game.py)
 
 About this project
