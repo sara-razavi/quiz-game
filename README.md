@@ -21,5 +21,7 @@ How to run
 
 [python quiz_game.py](./01_quiz_game.py)
 
+
 About this project
+
 This is an older project from my early Python learning period.
