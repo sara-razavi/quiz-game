@@ -6,10 +6,15 @@ This was one of my early projects, so I kept the code pretty simple. The game as
 What it does
 
  • Shows multiple-choice questions
+
  • Takes the user’s answers
+
  • Checks if the answer is correct
+
  • Keeps a score
+
  • Shows the final result
+
 
 How to run
 
